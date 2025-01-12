@@ -1,4 +1,4 @@
-# Simple Dashboard using multiple JS stack
+# Simple Dashboard using Next.js and D3.js
 
 A simple React/Redux/Relay/Next.js dashboard template with perfect benchmarks using Material UI.
 
